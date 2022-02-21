@@ -33,6 +33,6 @@ This is Internship Project For Technocolabs Software. The goal of the project is
 ## 🚀 About Me
 Hola, mi nombre es Mudit 
 I'm a Machine Learning and Data Science Enthusiast.
-I am interested in Business Anlaytics and Market Research as well as Predictve Finance Analysis.
-I am skilled in Python Language, Data Science and ML , Data Visualisation and Keras/ Tensorflow, Stramlit and Business Anlaytics.
+I am interested in Business Analytics and Market Research as well as Predictve Finance Analysis.
+I am skilled in Python Language, Data Science and ML , Data Visualisation and Keras/ Tensorflow, Stramlit and Business Analytics.
 
